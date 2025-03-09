@@ -1,0 +1,4 @@
+Admin|Admin|Admin
+User|User|User
+User2|User2|Admin
+stop|Admin|Admin
